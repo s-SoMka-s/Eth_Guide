@@ -42,9 +42,4 @@ contract Functions{
     function pureSample (uint _b) public pure returns(uint){
         return (_b+10);
     }
-    
-    
-    //events
-    //
-    //
 }
